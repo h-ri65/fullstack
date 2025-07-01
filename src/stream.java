@@ -33,10 +33,7 @@ public class stream
         {
             throw new RuntimeException(e);
         }
-        File nw = new File("file");
-        nw.delete();
-        System.out.println("");
-        System.out.println("file deleted");
+      
 
     }
 }
